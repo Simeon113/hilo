@@ -6,7 +6,6 @@ namespace hilo
         // Program new_program = new Program();
         public int points = 300;
 
-        public int newpoints;
         public string player_guess;
 
         public string player_choice;
